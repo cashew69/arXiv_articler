@@ -1,0 +1,26 @@
+*Fetcher
+[x] request cs.LG on arxiv and get all arxiv id's
+[x] request all catagorise. 
+[x] Create Database Connection
+[x] save data in database.
+
+*Error Logger
+[x] Find logger module or write.
+USED.
+
+*PDF extractor
+[] find python module to work with pdf's and extract information in raw format [txt, images]
+[] Duplication Resolver.
+
+*Summerize
+[] learn how to use gpt api.
+
+*Display Image Picker
+[] Find ideas to pick best looking image from paper to display as thumbnail.
+
+*Article Generator.
+[] Python script that will write html article from json document.
+
+*User Management
+
+*Similarity Finder.
